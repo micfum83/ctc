@@ -177,7 +177,7 @@ Advies bij overgewicht:
 - Dieet aanpassen, meer bewegen
 - GLI-programma's
 - Contact huisarts
-"""")
+""")
 
 # PDF-generatie
 def generate_pdf(data):
